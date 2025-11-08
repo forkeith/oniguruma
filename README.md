@@ -153,6 +153,12 @@ Regular Expressions
 
   See [doc/RE](doc/RE) or [doc/RE.ja](doc/RE.ja) for Japanese.
 
+### Advanced Features Documentation
+
+  - [Subroutine Calls and Recursion Level Backreferences](doc/SUBROUTINE_CALLS.md) - 
+    Comprehensive guide to `\g<...>` subroutine calls and `\k<name+level>` recursion 
+    level backreferences, with real-world examples and implementation guidance.
+
 
 Usage
 -----
